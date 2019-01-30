@@ -10,7 +10,7 @@
     </parent>
     <groupId>pro.dengyi</groupId>
     <artifactId>fastdfs-spring-boot-starter</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <name>fastdfs-spring-boot-starter</name>
     <description>fastdfs project for Spring Boot</description>
 
